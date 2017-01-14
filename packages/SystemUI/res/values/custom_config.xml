@@ -25,6 +25,9 @@
     <string name="quick_settings_tiles_extra" translatable="false">
         hotspot,inversion,saver,work,cast,caffeine,music,nfc,screenshot,assist,voiceassist,adb_network,weather,headsup
     </string>
+    <!-- Burn in protection -->
+    <bool name="config_statusBarBurnInProtection">false</bool>
+    <integer name="config_shift_interval">60</integer>
 
 </resources>
 
